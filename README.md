@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm preeti bissoyi</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align-"left" alt="coding" width="400" src="https://user-images.githubusercontent.com/115729390/222388556-017262f8-afd0-4edf-8df1-434a42eb62b4.png">
+<img align-"right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📫 How to reach me **Preetibissoyi@gmail.com**
 
